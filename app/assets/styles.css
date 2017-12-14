@@ -9,7 +9,7 @@ header {
 }
 
 h1 {
-  margin-left: 1rem;
+  margin-left: 9rem;
   color: red;
 }
 
@@ -18,6 +18,6 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: darkgrey;
-  font-size: 2rem;
+  color: hotpink;
+  font-size: 9rem;
 }
