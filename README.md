@@ -15,5 +15,8 @@ You should create an array of objects. Each object should have a name and age.
 ### Task 5 - Amber
 You should create an array of numbers in a Javascript file, if there isn't one. Write a function that returns an array of the even numbers.
 
-## Task 6 - Kyle
+### Task 6 - Kyle
 Slack your partner. You should both edit five CSS properties.
+
+### Task 7 - Amber
+You should edit an HTML file. Add a paragraph about something you like.
