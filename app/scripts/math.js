@@ -11,3 +11,14 @@ function arrayMultipy(ar1, ar2){
 }
 
 arrayMultipy(kylesArray, numberArray)
+
+const objectArray = [{
+  name: "Danny",
+  age: 6
+},{
+  name: "Amber",
+  age: 24
+},{
+  name: "Kyle",
+  age: 27
+}]
