@@ -20,3 +20,6 @@ Slack your partner. You should both edit five CSS properties.
 
 ### Task 7 - Amber
 You should edit an HTML file. Add a paragraph about something you like.
+
+### Task 8 - Kyle
+You should remove a file other than index.html.
