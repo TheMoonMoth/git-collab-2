@@ -23,3 +23,6 @@ You should edit an HTML file. Add a paragraph about something you like.
 
 ### Task 8 - Kyle
 You should remove a file other than index.html.
+
+### Task 9 - Amber
+You should edit five CSS properties.

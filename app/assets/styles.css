@@ -3,14 +3,14 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: flex-end;
-  color: hsl(0, 0%, 70%);
-  border-bottom: .3rem solid darkgrey;
-  font-size: 3rem;
+  color: lavender;
+  border-bottom: 3rem solid darkgrey;
+  font-size: 10rem;
 }
 
 h1 {
   margin-left: 9rem;
-  color: red;
+  color: yellow;
 }
 
 nav {
@@ -20,4 +20,5 @@ nav a {
   text-decoration: none;
   color: hotpink;
   font-size: 9rem;
+  border: 2px solid black;
 }
