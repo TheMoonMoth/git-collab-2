@@ -26,3 +26,6 @@ You should remove a file other than index.html.
 
 ### Task 9 - Amber
 You should edit five CSS properties.
+
+### Task 10 - Kyle
+You should create a new CSS file. Link to it from one of your HTML files.
