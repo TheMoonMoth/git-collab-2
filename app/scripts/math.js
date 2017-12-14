@@ -17,8 +17,16 @@ const objectArray = [{
   age: 6
 },{
   name: "Amber",
-  age: 24
+  age: 28
 },{
   name: "Kyle",
   age: 27
 }]
+
+function evenNumbers(array) {
+    return array.filter(number => {
+        return number % 2 === 0;
+    })
+}
+
+evenNumbers(numberArray);

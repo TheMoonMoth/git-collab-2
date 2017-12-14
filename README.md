@@ -9,5 +9,8 @@ Slack your partner. You should both create an array of numbers in a Javascript f
 ### Task 3 - Amber
 You should create a new CSS file. Link to it from one of your HTML files.
 
-## Task 4 - Kyle
+### Task 4 - Kyle
 You should create an array of objects. Each object should have a name and age.
+
+### Task 5 - Amber
+You should create an array of numbers in a Javascript file, if there isn't one. Write a function that returns an array of the even numbers.
